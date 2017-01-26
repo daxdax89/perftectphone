@@ -12985,6 +12985,9 @@ div.v-layout.v-horizontal.v-widget {
 	overflow: hidden;
 }
 
-.mytheme #main {
+.mytheme #welcome {
+	font-weight: bold;
+	font-size: 3em;
 	text-align: center;
+	color: black;
 }
